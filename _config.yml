@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: https://github.com/sunskydp/sunskydp.github.io.git
+  branch: master
