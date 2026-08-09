@@ -1,3 +1,11 @@
+## 下载一个UU加速器，给Apple Store加速，付款方式就可以选择无了，美区地址见下图
+- ### 付款与地址：付款方式选择 “None”（无）。
+- ### 账单地址（Billing Address）（可以乱编的反正也不用）填入从下图地址生成器中获取的免税州街道、城市、州名、邮编和电话（选取必填的部分几个，其他姓名邮箱可以写自己的）。
+- ### 完成验证：输入邮箱收到的验证码即可完成注册。
+
+<img width="1667" height="897" alt="image" src="https://github.com/user-attachments/assets/7978f0e0-825d-4b68-8012-eb5a015805d0" />
+
+
 `https://fanyunb.ccwu.cc/sub?token=685691e9b3d3a936b30339b7f1e7e653`
 
 先复制上面这段文字
