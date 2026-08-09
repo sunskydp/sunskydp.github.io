@@ -5,6 +5,7 @@
 
 <img width="1667" height="897" alt="image" src="https://github.com/user-attachments/assets/7978f0e0-825d-4b68-8012-eb5a015805d0" />
 
+## 美区搞完后搜索 Clash Mi 这个App，下载打开后再往下做
 
 `https://fanyunb.ccwu.cc/sub?token=685691e9b3d3a936b30339b7f1e7e653`
 
